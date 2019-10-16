@@ -36,6 +36,6 @@ end
 
 array = [1, 2, [3, 4] [5, 6]]
 def using_flatten(array)
-  
+
   array.flatten
 end
