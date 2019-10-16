@@ -34,7 +34,8 @@ def using_uniq(array)
   array.uniq
 end
 
+array = [1, 2, [3, 4] [5, 6]]
 def using_flatten(array)
-  array = [1,2,[3,4][5,6]]
+  
   array.flatten
 end
